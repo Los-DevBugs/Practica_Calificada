@@ -22,9 +22,9 @@ namespace CapaPresentacion
         {
             // Para que no consuma recursos hacemos que solo cargue 1 vez
             // Solo cargar la lista la primera vez
-            if (!Page.IsPostBack) 
+            if (!Page.IsPostBack)
                 Listar();
-            
+
         }
 
         protected void btnAgregar_Click(object sender, EventArgs e)

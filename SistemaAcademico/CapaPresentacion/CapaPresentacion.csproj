@@ -120,6 +120,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
+    <Content Include="frmAlumno.aspx" />
     <Content Include="frmCarrera.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -206,6 +207,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlumno.aspx.cs">
+      <DependentUpon>frmAlumno.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmAlumno.aspx.designer.cs">
+      <DependentUpon>frmAlumno.aspx</DependentUpon>
     </Compile>
     <Compile Include="frmCarrera.aspx.cs">
       <DependentUpon>frmCarrera.aspx</DependentUpon>

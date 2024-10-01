@@ -4,3 +4,9 @@ C:\Users\bilro\source\repos\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.c
 C:\Users\bilro\source\repos\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
 C:\Users\bilro\source\repos\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\bilro\source\repos\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\ESTUDIOS\Universidad Continental\8vo ciclo\CONSTRUCCIÓN DE SOFTWARE\Practica calificada\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\ESTUDIOS\Universidad Continental\8vo ciclo\CONSTRUCCIÓN DE SOFTWARE\Practica calificada\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\ESTUDIOS\Universidad Continental\8vo ciclo\CONSTRUCCIÓN DE SOFTWARE\Practica calificada\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\ESTUDIOS\Universidad Continental\8vo ciclo\CONSTRUCCIÓN DE SOFTWARE\Practica calificada\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\ESTUDIOS\Universidad Continental\8vo ciclo\CONSTRUCCIÓN DE SOFTWARE\Practica calificada\SistemaAcademico\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\ESTUDIOS\Universidad Continental\8vo ciclo\CONSTRUCCIÓN DE SOFTWARE\Practica calificada\SistemaAcademico\CapaNegocio\bin\Debug\CapaNegocio.pdb

@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\capapresentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|d:\\estudios\\universidad continental\\8vo ciclo\\construcci\u00F3n de software\\practica calificada\\sistemaacademico\\capapresentacion\\frmcarrera.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcarrera.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|d:\\estudios\\universidad continental\\8vo ciclo\\construcci\u00F3n de software\\practica calificada\\sistemaacademico\\capapresentacion\\frmalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCarrera.aspx",
+              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmCarrera.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCarrera.aspx",
+              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmCarrera.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmCarrera.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T01:11:28.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAlumno.aspx.cs",
+              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmAlumno.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmAlumno.aspx.cs",
+              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmAlumno.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmAlumno.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:11:20.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAlumno.aspx",
+              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmAlumno.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmAlumno.aspx",
+              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmAlumno.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmAlumno.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T00:58:44.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
