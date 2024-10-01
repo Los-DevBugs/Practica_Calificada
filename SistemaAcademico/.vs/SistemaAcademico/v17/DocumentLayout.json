@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|d:\\estudios\\universidad continental\\8vo ciclo\\construcci\u00F3n de software\\practica calificada\\sistemaacademico\\capapresentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|d:\\estudios\\universidad continental\\8vo ciclo\\construcci\u00F3n de software\\practica calificada\\sistemaacademico\\capapresentacion\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|d:\\estudios\\universidad continental\\8vo ciclo\\construcci\u00F3n de software\\practica calificada\\sistemaacademico\\capapresentacion\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1CB56E-CD04-4D3B-BFBE-D95C9C8DF177}|CapaNegocio\\CapaNegocio.csproj|d:\\estudios\\universidad continental\\8vo ciclo\\construcci\u00F3n de software\\practica calificada\\sistemaacademico\\capanegocio\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1CB56E-CD04-4D3B-BFBE-D95C9C8DF177}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|d:\\estudios\\universidad continental\\8vo ciclo\\construcci\u00F3n de software\\practica calificada\\sistemaacademico\\capapresentacion\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|d:\\estudios\\universidad continental\\8vo ciclo\\construcci\u00F3n de software\\practica calificada\\sistemaacademico\\capapresentacion\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|d:\\estudios\\universidad continental\\8vo ciclo\\construcci\u00F3n de software\\practica calificada\\sistemaacademico\\capapresentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1CB56E-CD04-4D3B-BFBE-D95C9C8DF177}|CapaNegocio\\CapaNegocio.csproj|d:\\estudios\\universidad continental\\8vo ciclo\\construcci\u00F3n de software\\practica calificada\\sistemaacademico\\capanegocio\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1CB56E-CD04-4D3B-BFBE-D95C9C8DF177}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\capapresentacion\\frmcarrera.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcarrera.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\capapresentacion\\frmalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED543DB9-03B9-4B19-A921-DA95EF51A0C0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +42,102 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inicio.aspx.cs",
+              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\inicio.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\inicio.aspx.cs",
+              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\inicio.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\inicio.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:43:33.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "inicio.aspx",
+              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\inicio.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\inicio.aspx",
+              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\inicio.aspx",
+              "RelativeToolTip": "CapaPresentacion\\inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T22:41:28.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaNegocio\\Carrera.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Carrera.cs",
+              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaNegocio\\Carrera.cs",
+              "RelativeToolTip": "CapaNegocio\\Carrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:20:46.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaNegocio\\Docente.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Docente.cs",
+              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaNegocio\\Docente.cs",
+              "RelativeToolTip": "CapaNegocio\\Docente.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:20:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDocente.aspx.cs",
+              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmDocente.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDocente.aspx.cs",
+              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmDocente.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmDocente.aspx.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:06:13.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDocente.aspx",
+              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmDocente.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDocente.aspx",
+              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmDocente.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmDocente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T21:58:10.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\Site.Master",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Site.Master",
+              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\Site.Master",
+              "RelativeToolTip": "CapaPresentacion\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T21:56:46.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "frmCarrera.aspx",
               "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmCarrera.aspx",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmCarrera.aspx",
@@ -34,31 +145,7 @@
               "RelativeToolTip": "CapaPresentacion\\frmCarrera.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-01T01:11:28.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmAlumno.aspx.cs",
-              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmAlumno.aspx.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmAlumno.aspx.cs",
-              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmAlumno.aspx.cs",
-              "RelativeToolTip": "CapaPresentacion\\frmAlumno.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T01:11:20.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmAlumno.aspx",
-              "DocumentMoniker": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmAlumno.aspx",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmAlumno.aspx",
-              "ToolTip": "D:\\ESTUDIOS\\Universidad Continental\\8vo ciclo\\CONSTRUCCI\u00D3N DE SOFTWARE\\Practica calificada\\SistemaAcademico\\CapaPresentacion\\frmAlumno.aspx",
-              "RelativeToolTip": "CapaPresentacion\\frmAlumno.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-01T00:58:44.787Z",
+              "WhenOpened": "2024-10-01T01:11:28.698Z",
               "EditorCaption": ""
             }
           ]

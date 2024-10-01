@@ -32,7 +32,7 @@ namespace CapaNegocio
         {
             using (SqlConnection conexion = new SqlConnection(cadena))
             {
-                string consulta = "select * from TCarrera";
+                string consulta = "select * from TDocente";
                 SqlDataAdapter adapter = new SqlDataAdapter(consulta, conexion);
                 DataTable tabla = new DataTable();
                 adapter.Fill(tabla);
@@ -44,12 +44,12 @@ namespace CapaNegocio
         {
             using (SqlConnection conexion = new SqlConnection(cadena))
             {
-                string consulta = "insert into TCarrera values(@CodCarrera,@NombreCarrera)";
+                string consulta = "insert into TDocente values(@CodDocente,@NombreDocente)";
                 SqlCommand comando = new SqlCommand(consulta, conexion);
                 comando.Parameters.AddWithValue("@CodDocente", CodDocente);
                 comando.Parameters.AddWithValue("@APaterno", APaterno);
                 comando.Parameters.AddWithValue("@AMaterno", AMaterno);
-                comando.Parameters.AddWithValue("@NombreCarrera", NombreDocen);
+                comando.Parameters.AddWithValue("@NombreDocente", NombreDocen);
                 comando.Parameters.AddWithValue("@Usuario", Usuario);
                 conexion.Open();
                 byte i = Convert.ToByte(comando.ExecuteNonQuery());
@@ -83,7 +83,7 @@ namespace CapaNegocio
                 comando.Parameters.AddWithValue("@CodDocente", CodDocente);
                 comando.Parameters.AddWithValue("@APaterno", APaterno);
                 comando.Parameters.AddWithValue("@AMaterno", AMaterno);
-                comando.Parameters.AddWithValue("@NombreCarrera", NombreDocen);
+                comando.Parameters.AddWithValue("@NombreDocente", NombreDocen);
                 comando.Parameters.AddWithValue("@Usuario", Usuario);
                 conexion.Open();
                 byte i = Convert.ToByte(comando.ExecuteNonQuery());
