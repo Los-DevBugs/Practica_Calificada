@@ -11,53 +11,35 @@ namespace CapaPresentacion
 {
 
 
-    public partial class frmDocente
+    public partial class frmAsignatura
     {
 
         /// <summary>
-        /// Control txtCodDocente.
+        /// Control txtCodAsignatura.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtCodDocente;
+        protected global::System.Web.UI.WebControls.TextBox txtCodAsignatura;
 
         /// <summary>
-        /// Control txtAPaterno.
+        /// Control txtNombreAsignatura.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtAPaterno;
+        protected global::System.Web.UI.WebControls.TextBox txtNombreAsignatura;
 
         /// <summary>
-        /// Control txtAMaterno.
+        /// Control txtCodRequisito.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtAMaterno;
-
-        /// <summary>
-        /// Control txtNombresDocen.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtNombresDocen;
-
-        /// <summary>
-        /// Control txtUsuario.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtUsuario;
+        protected global::System.Web.UI.WebControls.TextBox txtCodRequisito;
 
         /// <summary>
         /// Control btnAgregar.
@@ -105,12 +87,12 @@ namespace CapaPresentacion
         protected global::System.Web.UI.WebControls.Button btnBuscar;
 
         /// <summary>
-        /// Control gvDocente.
+        /// Control gvAsignatura.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gvDocente;
+        protected global::System.Web.UI.WebControls.GridView gvAsignatura;
     }
 }

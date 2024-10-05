@@ -5,8 +5,17 @@
         CodDocente : <asp:TextBox runat="server" ID="txtCodDocente" />
     </p>
     <p>
-        Docente : <asp:TextBox runat="server" ID="txtDocente" />
+        APaterno : <asp:TextBox runat="server" ID="txtAPaterno" />
     </p>
+    <p>
+        AMaterno : <asp:TextBox runat="server" ID="txtAMaterno" />
+    </p>
+    <p>
+        Nombres : <asp:TextBox runat="server" ID="txtNombresDocen" />
+    </p>
+    <p>
+        Usuario: <asp:TextBox runat="server" ID="txtUsuario" />
+    </p>   
     <p>
         <asp:Button Text="Agregar" runat="server" ID="btnAgregar" OnClick="btnAgregar_Click" />
         <asp:Button Text="Eliminar" runat="server" ID="btnEliminar" OnClick="btnEliminar_Click" />

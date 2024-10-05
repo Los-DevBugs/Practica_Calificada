@@ -20,15 +20,19 @@ namespace CapaPresentacion
 
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (!Page.IsPostBack)
+                Listar();
         }
 
         protected void btnAgregar_Click(object sender, EventArgs e)
         {
-            Carrera carrera = new Carrera();
-            carrera.CodCarrera = txtCodDocente.Text.Trim();
-            carrera.NombreCarrera = txtDocente.Text.Trim();
-            if (carrera.Agregar())
+            Docente docente = new Docente();
+            docente.CodDocente = txtCodDocente.Text.Trim();
+            docente.APaterno = txtAPaterno.Text.Trim();
+            docente.AMaterno = txtAMaterno.Text.Trim();
+            docente.NombresDocen = txtNombresDocen.Text.Trim();
+            docente.Usuario = txtUsuario.Text.Trim();
+            if (docente.Agregar())
                 Listar();
             else
             {
@@ -38,10 +42,13 @@ namespace CapaPresentacion
 
         protected void btnEliminar_Click(object sender, EventArgs e)
         {
-            Carrera carrera = new Carrera();
-            carrera.CodCarrera = txtCodDocente.Text.Trim();
-            carrera.NombreCarrera = txtDocente.Text.Trim();
-            if (carrera.Eliminar())
+            Docente docente = new Docente();
+            docente.CodDocente = txtCodDocente.Text.Trim();
+            docente.APaterno = txtAPaterno.Text.Trim();
+            docente.AMaterno = txtAMaterno.Text.Trim();
+            docente.NombresDocen = txtNombresDocen.Text.Trim();
+            docente.Usuario = txtUsuario.Text.Trim();
+            if (docente.Eliminar())
                 Listar();
             else
             {
@@ -51,10 +58,13 @@ namespace CapaPresentacion
 
         protected void btnActualizar_Click(object sender, EventArgs e)
         {
-            Carrera carrera = new Carrera();
-            carrera.CodCarrera = txtCodDocente.Text.Trim();
-            carrera.NombreCarrera = txtDocente.Text.Trim();
-            if (carrera.Actualizar())
+            Docente docente = new Docente();
+            docente.CodDocente = txtCodDocente.Text.Trim();
+            docente.APaterno = txtAPaterno.Text.Trim();
+            docente.AMaterno = txtAMaterno.Text.Trim();
+            docente.NombresDocen = txtNombresDocen.Text.Trim();
+            docente.Usuario = txtUsuario.Text.Trim();
+            if (docente.Actualizar())
                 Listar();
             else
             {
@@ -66,7 +76,7 @@ namespace CapaPresentacion
         {
             string criterio = txtBuscar.Text.Trim(); // Obtener el criterio de búsqueda
 
-            DataTable resultado = new Carrera().Buscar(criterio);
+            DataTable resultado = new Docente().Buscar(criterio);
 
             if (resultado.Rows.Count > 0)
             {

@@ -31,7 +31,11 @@ namespace CapaPresentacion
         {
             Alumno alumno = new Alumno();
             alumno.CodAlumno = txtCodAlumno.Text.Trim();
+            alumno.APaterno = txtAPaterno.Text.Trim();
+            alumno.AMaterno = txtAMaterno.Text.Trim();
             alumno.Nombres = txtNombres.Text.Trim();
+            alumno.Usuario = txtUsuario.Text.Trim();
+            alumno.CodCarrera = txtCodCarrera.Text.Trim();
             if (alumno.Agregar())
                 Listar();
             else
@@ -44,7 +48,11 @@ namespace CapaPresentacion
         {
             Alumno alumno = new Alumno();
             alumno.CodAlumno = txtCodAlumno.Text.Trim();
+            alumno.APaterno = txtAPaterno.Text.Trim();
+            alumno.AMaterno = txtAMaterno.Text.Trim();
             alumno.Nombres = txtNombres.Text.Trim();
+            alumno.Usuario = txtUsuario.Text.Trim();
+            alumno.CodCarrera = txtCodCarrera.Text.Trim();
             if (alumno.Eliminar())
                 Listar();
             else
@@ -57,7 +65,11 @@ namespace CapaPresentacion
         {
             Alumno alumno = new Alumno();
             alumno.CodAlumno = txtCodAlumno.Text.Trim();
+            alumno.APaterno = txtAPaterno.Text.Trim();
+            alumno.AMaterno = txtAMaterno.Text.Trim();
             alumno.Nombres = txtNombres.Text.Trim();
+            alumno.Usuario = txtUsuario.Text.Trim();
+            alumno.CodCarrera = txtCodCarrera.Text.Trim();
             if (alumno.Actualizar())
                 Listar();
             else

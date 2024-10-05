@@ -26,7 +26,7 @@ namespace CapaNegocio
 
         public string Usuario { get; set; }
 
-        public char CodCarrera { get; set; }
+        public string CodCarrera { get; set; }
 
 
         //Implementar los metodos de la clase
@@ -82,7 +82,7 @@ namespace CapaNegocio
         {
             using (SqlConnection conexion = new SqlConnection(cadena))
             {
-                string consulta = "update TAlumno set APaterno=@Aparterno, AMaterno=@AMaterno, Nombres=@Nombres, Usuario=Usuario, CodCarrera=@CodCarrera where CodAlumno=@CodAlumno";
+                string consulta = "update TAlumno set APaterno=@APaterno, AMaterno=@AMaterno, Nombres=@Nombres, Usuario=Usuario, CodCarrera=@CodCarrera where CodAlumno=@CodAlumno";
                 SqlCommand comando = new SqlCommand(consulta, conexion);
                 comando.Parameters.AddWithValue("@CodAlumno", CodAlumno);
                 comando.Parameters.AddWithValue("@APaterno", APaterno);

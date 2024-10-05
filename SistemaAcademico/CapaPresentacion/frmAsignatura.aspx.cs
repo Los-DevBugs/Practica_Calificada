@@ -9,30 +9,29 @@ using System.Web.UI.WebControls;
 
 namespace CapaPresentacion
 {
-    public partial class frmCarrera : System.Web.UI.Page
+    public partial class frmAsignatura : System.Web.UI.Page
     {
         private void Listar()
         {
-            Carrera carrera = new Carrera();
-            gvCarrera.DataSource = carrera.Listar();
-            gvCarrera.DataBind();
+            Asignatura asignatura = new Asignatura();
+            gvAsignatura.DataSource = asignatura.Listar();
+            gvAsignatura.DataBind();
         }
-
         protected void Page_Load(object sender, EventArgs e)
         {
             // Para que no consuma recursos hacemos que solo cargue 1 vez
             // Solo cargar la lista la primera vez
             if (!Page.IsPostBack)
                 Listar();
-
         }
 
         protected void btnAgregar_Click(object sender, EventArgs e)
         {
-            Carrera carrera = new Carrera();
-            carrera.CodCarrera = txtCodCarrera.Text.Trim();
-            carrera.NombreCarrera = txtCarrera.Text.Trim();
-            if (carrera.Agregar())
+            Asignatura asignatura = new Asignatura();
+            asignatura.CodAsignatura = txtCodAsignatura.Text.Trim();
+            asignatura.NombreAsignatura = txtNombreAsignatura.Text.Trim();
+            asignatura.CodRequisito = txtCodRequisito.Text.Trim();
+            if (asignatura.Agregar())
                 Listar();
             else
             {
@@ -42,10 +41,11 @@ namespace CapaPresentacion
 
         protected void btnEliminar_Click(object sender, EventArgs e)
         {
-            Carrera carrera = new Carrera();
-            carrera.CodCarrera = txtCodCarrera.Text.Trim();
-            carrera.NombreCarrera = txtCarrera.Text.Trim();
-            if (carrera.Eliminar())
+            Asignatura asignatura = new Asignatura();
+            asignatura.CodAsignatura = txtCodAsignatura.Text.Trim();
+            asignatura.NombreAsignatura = txtNombreAsignatura.Text.Trim();
+            asignatura.CodRequisito = txtCodRequisito.Text.Trim();
+            if (asignatura.Eliminar())
                 Listar();
             else
             {
@@ -55,10 +55,11 @@ namespace CapaPresentacion
 
         protected void btnActualizar_Click(object sender, EventArgs e)
         {
-            Carrera carrera = new Carrera();
-            carrera.CodCarrera = txtCodCarrera.Text.Trim();
-            carrera.NombreCarrera = txtCarrera.Text.Trim();
-            if (carrera.Actualizar())
+            Asignatura asignatura = new Asignatura();
+            asignatura.CodAsignatura = txtCodAsignatura.Text.Trim();
+            asignatura.NombreAsignatura = txtCodAsignatura.Text.Trim();
+            asignatura.CodRequisito = txtCodRequisito.Text.Trim();
+            if (asignatura.Actualizar())
                 Listar();
             else
             {
@@ -70,18 +71,18 @@ namespace CapaPresentacion
         {
             string criterio = txtBuscar.Text.Trim(); // Obtener el criterio de búsqueda
 
-            DataTable resultado = new Carrera().Buscar(criterio);
+            DataTable resultado = new Asignatura().Buscar(criterio);
 
             if (resultado.Rows.Count > 0)
             {
-                gvCarrera.DataSource = resultado; // Asignar el DataTable al GridView
-                gvCarrera.DataBind(); // Realizar el binding
+                gvAsignatura.DataSource = resultado; // Asignar el DataTable al GridView
+                gvAsignatura.DataBind(); // Realizar el binding
             }
             else
             {
                 Response.Write("No se encontraron resultados");
-                gvCarrera.DataSource = null; // Limpiar el GridView si no hay resultados
-                gvCarrera.DataBind(); // Realizar el binding para limpiar la vista
+                gvAsignatura.DataSource = null; // Limpiar el GridView si no hay resultados
+                gvAsignatura.DataBind(); // Realizar el binding para limpiar la vista
             }
         }
 
