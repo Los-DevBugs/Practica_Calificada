@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CapaNegocio"
+    "\\CapaNegocio",
+    "\\CapaPresentacion"
   ],
   "SelectedNode": "\\SistemaAcademico.sln",
   "PreviewInSolutionExplorer": false
